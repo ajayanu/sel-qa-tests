@@ -1,1 +1,2 @@
-# sel-qa-tests
+#readme
+!. add dependency on parent pom
